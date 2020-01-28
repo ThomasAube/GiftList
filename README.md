@@ -77,7 +77,7 @@ Planning :
 
 ## Lot 3
 ### Réservation d'une salle
-Après consultation, il faut bien sûr passer par l'étape de réservation. Il est nécessaire à cette étape s'être identifié lors d'une étape de connexion basique. Ainsi, on peut imaginer pouvoir désactiver un étudiant qui aurait dégradé une salle par exemple. On pourrait aussi permettre à un professeur ou à un secrétaire de passer outre une réservation en cas de manque de salle, voir d'en supprimer.
+Après  consultation, il faut bien sûr passer par l'étape de réservation. Il est nécessaire à cette étape s'être identifié lors d'une étape de connexion basique. Ainsi, on peut imaginer pouvoir désactiver un étudiant qui aurait dégradé une salle par exemple. On pourrait aussi permettre à un professeur ou à un secrétaire de passer outre une réservation en cas de manque de salle, voir d'en supprimer.
 Pour réserver, il faut spécifier un horaire et une durée. On demande en plus un commentaire, permettant lors de la consultation d'une salle de connaître l'utilisation qui en est faite.
 
 ```
